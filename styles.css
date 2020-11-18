@@ -2,6 +2,11 @@ body {
     background: #ccc;
 }
 
+.photo_perfil {
+    border: 1px solid #505050;
+    border-radius: 50px;
+}
+
 #title, .subtitle, .post_title {
     color: blue;
 }
